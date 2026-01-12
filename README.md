@@ -115,5 +115,3 @@ Misclassified samples were analyzed visually to understand model limitations. Va
  - Among all evaluated models, Support Vector Machine proved to be the most robust and reliable for handwritten digit recognition.
  - Performance can be further improved using advanced feature extraction techniques or ensemble learning methods.
 
-
-cd handwritten-digit-recognition
